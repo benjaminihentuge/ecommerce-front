@@ -79,7 +79,7 @@ export default function Featured({product}) {
             </div>
           </Column>
           <Column>
-            <img src="https://dawid-next-ecommerce.s3.amazonaws.com/1679151719649.png" alt=""/>
+            <img src="https://ngcouture-admin.s3.amazonaws.com/1732175774275.jpg" alt=""/>
           </Column>
         </ColumnsWrapper>
       </Center>
